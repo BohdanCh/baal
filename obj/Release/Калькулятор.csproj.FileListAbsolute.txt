@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\bin\Release\Калькулятор.exe.config
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\bin\Release\Калькулятор.exe
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\bin\Release\Калькулятор.pdb
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\obj\Release\Калькулятор.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\obj\Release\Калькулятор.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\obj\Release\Калькулятор.exe
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\obj\Release\Калькулятор.pdb
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\obj\Release\Калькулятор.Form1.resources
+d:\documents\visual studio 2015\Projects\Калькулятор\Калькулятор\obj\Release\Калькулятор.csprojResolveAssemblyReference.cache
